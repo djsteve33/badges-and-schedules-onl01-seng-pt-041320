@@ -15,3 +15,4 @@ def assign_rooms(attendees)
    end
    array
 end
+
